@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loveyourspacesa.co.za/sitemap.xml
